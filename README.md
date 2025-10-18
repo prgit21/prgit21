@@ -23,7 +23,7 @@ Databases: PostgreSQL, pgVector, Kafka,CockroachDb,SQL,Redis, minIO, Amazon RDS/
 
 #### 🧠 [RAG Knowledge Hub](https://github.com/prgit21/RAG-Knowledge-Hub)
 A multimodal retrieval-augmented generation platform that supports both text and image queries.  
-- **Tech:** FastAPI, Docker, PostgreSQL + pgVector, CLIP embeddings, OCR, MinIO  
+- **Tech:** FastAPI, Docker, PostgreSQL + pgVector, CLIP embeddings, OCR, MinIO, MicroFrontEnds  
 - **Highlights:** Cross-modal retrieval, ANN indexes, contextual LLM responses with citations  
 
 #### 💹 [Distributed Financial Data Platform](https://github.com/prgit21/Distributed-Financial-Data-Platform)
