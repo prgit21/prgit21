@@ -8,9 +8,13 @@
 
 ### ⚙️ Tech Stack
 Languages:TypeScript, Python, JavaScript.
+
 Backend: FastAPI, Docker, GitHub Actions, HuggingFace,REST APIs, Grafana, Prometheus
+
 Frontend: Angular, React, Next.js, Flutter, Micro-front-ends.
+
 Cloud: AWS – S3, EC2, RDS and IAM. Google Cloud Platform – Firebase Auth, FireStore and Crashlytics.
+
 Databases: PostgreSQL, pgVector, Kafka,CockroachDb,SQL,Redis, minIO, Amazon RDS/S3,
 
 ---
