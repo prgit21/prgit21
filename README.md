@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pranav Manjunath Bhat
 
 🎓 **MS in Computer Science @ Arizona State University (2027)**  
-🔧 Interested in **distributed systems, ML systems, and backend engineering**  
+🔧 Interested in **distributed systems, ML systems, Full stack and backend engineering**  
 📈 Focused on building **reliable, observable, and scalable data platforms**
 
 ---
