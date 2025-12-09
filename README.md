@@ -1,54 +1,76 @@
-# 👋 Hi, I'm Pranav Manjunath Bhat  
+# 👋 Hi, I’m Pranav Manjunath Bhat
 
-🎓 **MS in Computer Science @ Arizona State University**  
-💡 Building distributed systems, RAG knowledge platforms, and scalable cloud data pipelines.  
-🔭 Passionate about reliability, observability, and multimodal AI backends.  
-
----
-
-### ⚙️ Tech Stack
-Languages:TypeScript, Python, JavaScript.
-
-Backend: FastAPI, Docker, GitHub Actions, HuggingFace,REST APIs, Grafana, Prometheus
-
-Frontend: Angular, React, Next.js, Flutter, Micro-front-ends.
-
-Cloud: AWS – S3, EC2, RDS and IAM. Google Cloud Platform – Firebase Auth, FireStore and Crashlytics.
-
-Databases: PostgreSQL, pgVector, Kafka,CockroachDb,SQL,Redis, minIO, Amazon RDS/S3,
+🎓 **MS in Computer Science @ Arizona State University (2027)**  
+🔧 Interested in **distributed systems, ML systems, and backend engineering**  
+📈 Focused on building **reliable, observable, and scalable data platforms**
 
 ---
 
-### 🧩 Featured Projects
+## 🔭 What I’m Working On
 
-#### 🧠 [RAG Knowledge Hub](https://github.com/prgit21/RAG-Knowledge-Hub)
-A multimodal retrieval-augmented generation platform that supports both text and image queries.  
-- **Tech:** FastAPI, Docker, PostgreSQL + pgVector, CLIP embeddings, OCR, MinIO, MicroFrontEnds  
-- **Highlights:** Cross-modal retrieval, ANN indexes, contextual LLM responses with citations  
-
-#### 💹 [Distributed Financial Data Platform](https://github.com/prgit21/Distributed-Financial-Data-Platform)
-A containerized distributed data system for real-time market ingestion and observability.  
-- **Tech:** Kafka, CockroachDB, Python, Prometheus, Grafana  
-- **Highlights:** Sharding & replication, streaming ingestion, real-time dashboards  
-
-
+- Designing **distributed event-driven systems** using Kafka and transactional SQL databases  
+- Building **multimodal RAG pipelines** for text and image understanding  
+- Exploring **consistency, sharding, and fault tolerance** in production-style systems  
 
 ---
 
+## 🧩 Featured Projects
 
+### 💹 [Distributed Financial Data Platform](https://github.com/prgit21/Distributed-Financial-Data-Platform)
+A **fault-tolerant, Kafka-based streaming platform** for ingesting and observing real-time financial market data.
 
-### 🧠 What I’m Learning
-- Advanced Kafka stream processing  
-- Cross-modal embedding retrieval for multimodal AI  
-- Fault-tolerant distributed database design  
+- **Tech:** Apache Kafka, CockroachDB / PostgreSQL, Python, Docker, Prometheus, Grafana  
+- **Highlights:**
+  - Event-driven ingestion with deterministic ordering per symbol  
+  - Strong consistency using serializable transactions  
+  - Multi-layer sharding (Kafka partitions + distributed SQL ranges)  
+  - Production-style observability for throughput, failures, and system health  
 
 ---
 
-### 📫 Connect
-[LinkedIn](https://linkedin.com/in/pranav-manjunath-266533223) | [Email](mailto:pbhat12@asu.edu) 
+### 🧠 [Multimodal RAG Knowledge Hub](https://github.com/prgit21/RAG-Knowledge-Hub)
+A **retrieval-augmented generation (RAG) system** supporting semantic search across documents and images.
+
+- **Tech:** FastAPI, Docker, PostgreSQL + pgvector, CLIP embeddings, OCR, Angular & React micro-frontends  
+- **Highlights:**
+  - Cross-modal (text ↔ image) retrieval using CLIP embeddings  
+  - ANN indexing (IVF / HNSW) for low-latency similarity search  
+  - Context-grounded LLM responses with citations  
+  - Modular architecture designed for extensibility  
 
 ---
 
-⭐ **Pinned repositories:**  
-- [RAG-Knowledge-Hub](https://github.com/prgit21/RAG-Knowledge-Hub)  
+## ⚙️ Tech Stack
 
+**Languages**  
+Python, TypeScript, JavaScript, SQL  
+
+**Distributed Systems & Data**  
+Apache Kafka, CockroachDB, PostgreSQL, pgvector, Redis  
+
+**Backend & Infrastructure**  
+FastAPI, Docker, GitHub Actions, Prometheus, Grafana, REST APIs  
+
+**ML Systems**  
+PyTorch, HuggingFace, CLIP, RAG pipelines, Multimodal LLMs  
+
+**Frontend**  
+React, Angular, Next.js, Micro-frontends  
+
+**Cloud**  
+AWS (S3, EC2, RDS, IAM), GCP (Firebase Auth, Firestore, Crashlytics)
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Kafka stream processing and backpressure handling  
+- Multimodal embedding and retrieval strategies  
+- Distributed database design and CAP trade-offs  
+
+---
+
+## 📫 Connect
+
+- [LinkedIn](https://linkedin.com/in/pranav-manjunath-266533223)  
+- [Email](mailto:pbhat12@asu.edu)
